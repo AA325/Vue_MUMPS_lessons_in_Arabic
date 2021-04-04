@@ -15,7 +15,6 @@
 > git add **
 > git commit -m "Our First Commit"
 > git push -u origin main
-> git push
 > ```
 
 
