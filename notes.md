@@ -1,7 +1,9 @@
 # Goal
 > 1) Learn Vue from scratch
+> ```
 >> Install to VSCODE 
 >> Install to nodejs
+> ```
 
 
 # git
