@@ -1,1 +1,1 @@
-> this my first note
+VUE => Front End Framework
